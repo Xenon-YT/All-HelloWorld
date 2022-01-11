@@ -5,5 +5,5 @@ REPLACE E BY "test";
 WHILE TRUE DO
 BEGIN
 WRITE (F, *, E);
-END;
+END
 END.

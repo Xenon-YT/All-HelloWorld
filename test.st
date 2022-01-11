@@ -1,1 +1,1 @@
-Transcript show: 'Hello World!'
+Transcript show: 'test'

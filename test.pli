@@ -1,7 +1,4 @@
 Test: procedure options(main);
-
-   declare My_String char(20) varying initialize('Hello, world!');
-   
-   put skip list(My_String);
-   
+declare the_string char(20) varying initialize('test');
+put skip list(the_string);
 end Test;

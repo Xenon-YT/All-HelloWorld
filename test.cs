@@ -1,10 +1,7 @@
-  using System;
-
-  class HelloWorldApp
-  {
-    public static void Main(string[] args)
-    {
-      Console.WriteLine("Hello World");
-      Console.ReadLine ();
-    }
-  }
+using System;
+class testApp {
+public static void Main(string[] args) {
+Console.WriteLine("test");
+Console.ReadLine();
+}
+}

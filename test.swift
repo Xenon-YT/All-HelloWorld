@@ -1,3 +1,2 @@
 import UIKit
-
-print("Hello, world!")
+print("test")

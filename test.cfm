@@ -1,0 +1,2 @@
+<cfscript>
+	writeOutput( 'test' )

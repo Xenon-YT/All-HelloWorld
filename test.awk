@@ -1,1 +1,1 @@
-BEGIN {print "test"}
+BEGIN { print "test" }

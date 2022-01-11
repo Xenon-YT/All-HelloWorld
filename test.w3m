@@ -1,0 +1,3 @@
+function Trig_test_Actions takes nothing returns nothing
+	call DisplayTextToForce( GetPlayersAll(), "test")
+endfunction
